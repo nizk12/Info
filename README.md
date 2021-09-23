@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nirmal
+- 👋 Hi, I’m @nizk12
 - 👀 I’m interested in Developing webpage, Graphics Design, Mixing and Mastering (Audio and video)
 - 🌱 I’m currently learning Flutter, Android Studio, WordPress and Bachelor Student.
